@@ -52,7 +52,7 @@ namespace Inheritance
 
         public void PresentReptile()
         {
-            Console.WriteLine($"Bird has talans: {CanRegenerate}, bird song: {MatingCall}, wing span: {NumberOfEggs}, can swim: {HasScales}");
+            Console.WriteLine($"Reptile can regenerate: {CanRegenerate}, mating call: {MatingCall}, numbers of eggs laid in one cycle: {NumberOfEggs}, has scales: {HasScales}");
         }
 
     }
